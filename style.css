@@ -1,1 +1,17 @@
-
+*{
+    background-color:#ebd31c;
+    text-align: center;
+  }
+  h2{
+    color:white;
+  }
+  p{
+    color: red;
+  }
+  h3{
+    color:#1c42eb;
+  }
+  h4{
+    color:#eb1c1c;
+  }
+  
